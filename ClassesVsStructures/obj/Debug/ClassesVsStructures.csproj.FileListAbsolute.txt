@@ -1,0 +1,7 @@
+S:\Office Work\Monocept Training\Assignments\POC on Classes vs Structures in C#\ClassesVsStructures\ClassesVsStructures\obj\Debug\ClassesVsStructures.csproj.AssemblyReference.cache
+S:\Office Work\Monocept Training\Assignments\POC on Classes vs Structures in C#\ClassesVsStructures\ClassesVsStructures\obj\Debug\ClassesVsStructures.csproj.CoreCompileInputs.cache
+S:\Office Work\Monocept Training\Assignments\POC on Classes vs Structures in C#\ClassesVsStructures\ClassesVsStructures\bin\Debug\ClassesVsStructures.exe.config
+S:\Office Work\Monocept Training\Assignments\POC on Classes vs Structures in C#\ClassesVsStructures\ClassesVsStructures\bin\Debug\ClassesVsStructures.exe
+S:\Office Work\Monocept Training\Assignments\POC on Classes vs Structures in C#\ClassesVsStructures\ClassesVsStructures\bin\Debug\ClassesVsStructures.pdb
+S:\Office Work\Monocept Training\Assignments\POC on Classes vs Structures in C#\ClassesVsStructures\ClassesVsStructures\obj\Debug\ClassesVsStructures.exe
+S:\Office Work\Monocept Training\Assignments\POC on Classes vs Structures in C#\ClassesVsStructures\ClassesVsStructures\obj\Debug\ClassesVsStructures.pdb

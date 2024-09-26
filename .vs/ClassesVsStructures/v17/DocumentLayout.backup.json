@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "S:\\Office Work\\Monocept Training\\Assignments\\POC on Classes vs Structures in C#\\ClassesVsStructures\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C5561362-ACEC-4534-B83B-75417AB6B51D}|ClassesVsStructures\\ClassesVsStructures.csproj|s:\\office work\\monocept training\\assignments\\poc on classes vs structures in c#\\classesvsstructures\\classesvsstructures\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5561362-ACEC-4534-B83B-75417AB6B51D}|ClassesVsStructures\\ClassesVsStructures.csproj|solutionrelative:classesvsstructures\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5561362-ACEC-4534-B83B-75417AB6B51D}|ClassesVsStructures\\ClassesVsStructures.csproj|S:\\Office Work\\Monocept Training\\Assignments\\POC on Classes vs Structures in C#\\ClassesVsStructures\\classesvsstructures\\services\\memoryallocation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5561362-ACEC-4534-B83B-75417AB6B51D}|ClassesVsStructures\\ClassesVsStructures.csproj|solutionrelative:classesvsstructures\\services\\memoryallocation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5561362-ACEC-4534-B83B-75417AB6B51D}|ClassesVsStructures\\ClassesVsStructures.csproj|S:\\Office Work\\Monocept Training\\Assignments\\POC on Classes vs Structures in C#\\ClassesVsStructures\\classesvsstructures\\models\\childofstruct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5561362-ACEC-4534-B83B-75417AB6B51D}|ClassesVsStructures\\ClassesVsStructures.csproj|solutionrelative:classesvsstructures\\models\\childofstruct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5561362-ACEC-4534-B83B-75417AB6B51D}|ClassesVsStructures\\ClassesVsStructures.csproj|S:\\Office Work\\Monocept Training\\Assignments\\POC on Classes vs Structures in C#\\ClassesVsStructures\\classesvsstructures\\models\\childclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5561362-ACEC-4534-B83B-75417AB6B51D}|ClassesVsStructures\\ClassesVsStructures.csproj|solutionrelative:classesvsstructures\\models\\childclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5561362-ACEC-4534-B83B-75417AB6B51D}|ClassesVsStructures\\ClassesVsStructures.csproj|S:\\Office Work\\Monocept Training\\Assignments\\POC on Classes vs Structures in C#\\ClassesVsStructures\\classesvsstructures\\models\\structobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5561362-ACEC-4534-B83B-75417AB6B51D}|ClassesVsStructures\\ClassesVsStructures.csproj|solutionrelative:classesvsstructures\\models\\structobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5561362-ACEC-4534-B83B-75417AB6B51D}|ClassesVsStructures\\ClassesVsStructures.csproj|S:\\Office Work\\Monocept Training\\Assignments\\POC on Classes vs Structures in C#\\ClassesVsStructures\\classesvsstructures\\models\\classobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5561362-ACEC-4534-B83B-75417AB6B51D}|ClassesVsStructures\\ClassesVsStructures.csproj|solutionrelative:classesvsstructures\\models\\classobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MemoryAllocation.cs",
+              "DocumentMoniker": "S:\\Office Work\\Monocept Training\\Assignments\\POC on Classes vs Structures in C#\\ClassesVsStructures\\ClassesVsStructures\\Services\\MemoryAllocation.cs",
+              "RelativeDocumentMoniker": "ClassesVsStructures\\Services\\MemoryAllocation.cs",
+              "ToolTip": "S:\\Office Work\\Monocept Training\\Assignments\\POC on Classes vs Structures in C#\\ClassesVsStructures\\ClassesVsStructures\\Services\\MemoryAllocation.cs",
+              "RelativeToolTip": "ClassesVsStructures\\Services\\MemoryAllocation.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwB8AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T17:00:49.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ChildofStruct.cs",
+              "DocumentMoniker": "S:\\Office Work\\Monocept Training\\Assignments\\POC on Classes vs Structures in C#\\ClassesVsStructures\\ClassesVsStructures\\Models\\ChildofStruct.cs",
+              "RelativeDocumentMoniker": "ClassesVsStructures\\Models\\ChildofStruct.cs",
+              "ToolTip": "S:\\Office Work\\Monocept Training\\Assignments\\POC on Classes vs Structures in C#\\ClassesVsStructures\\ClassesVsStructures\\Models\\ChildofStruct.cs",
+              "RelativeToolTip": "ClassesVsStructures\\Models\\ChildofStruct.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T16:04:22.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ChildClass.cs",
+              "DocumentMoniker": "S:\\Office Work\\Monocept Training\\Assignments\\POC on Classes vs Structures in C#\\ClassesVsStructures\\ClassesVsStructures\\Models\\ChildClass.cs",
+              "RelativeDocumentMoniker": "ClassesVsStructures\\Models\\ChildClass.cs",
+              "ToolTip": "S:\\Office Work\\Monocept Training\\Assignments\\POC on Classes vs Structures in C#\\ClassesVsStructures\\ClassesVsStructures\\Models\\ChildClass.cs",
+              "RelativeToolTip": "ClassesVsStructures\\Models\\ChildClass.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T16:02:48.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StructObject.cs",
+              "DocumentMoniker": "S:\\Office Work\\Monocept Training\\Assignments\\POC on Classes vs Structures in C#\\ClassesVsStructures\\ClassesVsStructures\\Models\\StructObject.cs",
+              "RelativeDocumentMoniker": "ClassesVsStructures\\Models\\StructObject.cs",
+              "ToolTip": "S:\\Office Work\\Monocept Training\\Assignments\\POC on Classes vs Structures in C#\\ClassesVsStructures\\ClassesVsStructures\\Models\\StructObject.cs",
+              "RelativeToolTip": "ClassesVsStructures\\Models\\StructObject.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBkAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T15:54:55.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ClassObject.cs",
+              "DocumentMoniker": "S:\\Office Work\\Monocept Training\\Assignments\\POC on Classes vs Structures in C#\\ClassesVsStructures\\ClassesVsStructures\\Models\\ClassObject.cs",
+              "RelativeDocumentMoniker": "ClassesVsStructures\\Models\\ClassObject.cs",
+              "ToolTip": "S:\\Office Work\\Monocept Training\\Assignments\\POC on Classes vs Structures in C#\\ClassesVsStructures\\ClassesVsStructures\\Models\\ClassObject.cs",
+              "RelativeToolTip": "ClassesVsStructures\\Models\\ClassObject.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T15:54:36.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "S:\\Office Work\\Monocept Training\\Assignments\\POC on Classes vs Structures in C#\\ClassesVsStructures\\ClassesVsStructures\\Program.cs",
+              "RelativeDocumentMoniker": "ClassesVsStructures\\Program.cs",
+              "ToolTip": "S:\\Office Work\\Monocept Training\\Assignments\\POC on Classes vs Structures in C#\\ClassesVsStructures\\ClassesVsStructures\\Program.cs",
+              "RelativeToolTip": "ClassesVsStructures\\Program.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAQwEoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T15:52:56.52Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
