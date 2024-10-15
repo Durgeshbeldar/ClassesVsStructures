@@ -26,6 +26,7 @@ namespace ClassesVsStructures
             // =====================================================================================
 
             // Initialization of Class Objects...
+            
             Console.WriteLine("\n***** Point 1 : Memory Allocations in Class and Struct & Class = Ref Type and Struct Value Type *****\n");
             ClassObject classObject = new ClassObject(1, "Class Object");
             ClassObject classObject2 = new ClassObject(3, "Class Object2");
@@ -74,7 +75,6 @@ namespace ClassesVsStructures
             // so please refer that pdf to get detailed analysis on struct and class.
 
             //Thank You .....
-
         }
 
     }
